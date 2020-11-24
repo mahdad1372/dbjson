@@ -2,84 +2,84 @@
   "realstate": [
       {
     "id": 1,
-    "img": "../../img/home6.jpg",
+    "img": "http://www.nikitapp.ir/house1.jpg",
     "name": "آپارتمان 114 متری در نیایش",
     "cost": "1.400.000.000",
     "address": "بلوار چمران، ابتدای خیابان نیایش"
   },
   {
     "id": 2,
-    "img": "../img/home6.jpg",
+    "img": "http://www.nikitapp.ir/house2.jpg",
     "name": "آپارتمان 200 متری در ستارخان",
     "cost": "1.400.000.000",
     "address": "بلوار چمران، ابتدای خیابان ستارخان"
   },
   {
     "id": 3,
-    "img": "../img/home6.jpg",
+    "img": "http://www.nikitapp.ir/house3.jpg",
     "name": "آپارتمان 114 متری در نیایش",
     "cost": "1.400.000.000",
     "address": "بلوار چمران، ابتدای خیابان نیایش"
   },
   {
     "id": 4,
-    "img": "../img/home6.jpg",
+    "img": "http://www.nikitapp.ir/house4.jpg",
     "name": "آپارتمان 114 متری در نیایش",
     "cost": "1.400.000.000",
     "address": "بلوار چمران، ابتدای خیابان نیایش"
   },
   {
     "id": 5,
-    "img": "../img/home6.jpg",
+    "img": "http://www.nikitapp.ir/house5.jpg",
     "name": "آپارتمان 114 متری در نیایش",
     "cost": "1.400.000.000",
     "address": "بلوار چمران، ابتدای خیابان نیایش"
   },
   {
     "id": 6,
-    "img": "../img/home6.jpg",
+    "img": "http://www.nikitapp.ir/house5.jpg",
     "name": "آپارتمان 114 متری در نیایش",
     "cost": "1.400.000.000",
     "address": "بلوار چمران، ابتدای خیابان نیایش"
   },
   {
     "id": 7,
-    "img": "../img/home6.jpg",
+    "img": "http://www.nikitapp.ir/house5.jpg",
     "name": "آپارتمان 114 متری در نیایش",
     "cost": "1.400.000.000",
     "address": "بلوار چمران، ابتدای خیابان نیایش"
   },
   {
     "id": 8,
-    "img": "../img/home6.jpg",
+    "img": "http://www.nikitapp.ir/house5.jpg",
     "name": "آپارتمان 114 متری در نیایش",
     "cost": "1.400.000.000",
     "address": "بلوار چمران، ابتدای خیابان نیایش"
   },
   {
     "id": 9,
-    "img": "../img/home6.jpg",
+    "img": "http://www.nikitapp.ir/house5.jpg",
     "name": "آپارتمان 114 متری در نیایش",
     "cost": "1.400.000.000",
     "address": "بلوار چمران، ابتدای خیابان نیایش"
   },
   {
     "id": 10,
-    "img": "../img/home6.jpg",
+    "img": "http://www.nikitapp.ir/house5.jpg",
     "name": "آپارتمان 114 متری در نیایش",
     "cost": "1.400.000.000",
     "address": "بلوار چمران، ابتدای خیابان نیایش"
   },
   {
     "id": 11,
-    "img": "../img/home6.jpg",
+    "img": "http://www.nikitapp.ir/house5.jpg",
     "name": "آپارتمان 114 متری در نیایش",
     "cost": "1.400.000.000",
     "address": "بلوار چمران، ابتدای خیابان نیایش"
   },
   {
     "id": 12,
-    "img": "../img/home6.jpg",
+    "img": "http://www.nikitapp.ir/house5.jpg",
     "name": "آپارتمان 114 متری در نیایش",
     "cost": "1.400.000.000",
     "address": "بلوار چمران، ابتدای خیابان نیایش"
